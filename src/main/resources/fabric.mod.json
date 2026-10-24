@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "simple_tophat",
+	"version": "${version}",
+	"name": "Simple Tophats",
+	"description": "Adds some simple tophats to the game",
+	"authors": [
+		"Slothy",
+		"CJ"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/datapack/simple-tophats",
+		"sources": "https://github.com/mrslothkid/simple-tophats"
+	},
+	"license": "ARR",
+	"icon": "assets/simple_tophat/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"xyz.slothy.SimpleTophat"
+		],
+		"fabric-datagen": [
+			"xyz.slothy.client.SimpleTophatDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*",
+		"polymer-core": "*",
+		"polymer-resource-pack": "*"
+	}
+}

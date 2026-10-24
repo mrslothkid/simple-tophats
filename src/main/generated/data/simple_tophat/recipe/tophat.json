@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "tophat_dye",
+  "key": {
+    "#": "minecraft:black_wool",
+    "C": "minecraft:white_wool",
+    "S": "minecraft:black_wool_slab"
+  },
+  "pattern": [
+    " # ",
+    " C ",
+    "SSS"
+  ],
+  "result": {
+    "id": "simple_tophat:tophat"
+  }
+}

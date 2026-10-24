@@ -1,0 +1,5 @@
+// 26.3	-999999999-01-01T00:00:00	Simple Tophats/SimpleTophatRecipeProvider
+d93a81625f2ad9b398061abbb338413c29d6d575 data/simple_tophat/advancement/recipes/combat/tophat.json
+5efe58afb72178b50a4bf3ef1d3eda621cc27d67 data/simple_tophat/advancement/recipes/misc/tophat_dyed.json
+477650d40b3d77e21967f4470a0c8a117c4cf3a1 data/simple_tophat/recipe/tophat.json
+88f481d768c41d34bc76b58a3e84952e707e88b2 data/simple_tophat/recipe/tophat_dyed.json
